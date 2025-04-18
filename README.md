@@ -1,5 +1,26 @@
 # 💫 About Me:
-I’m a passionate and self-driven Full-Stack Web Developer with hands-on experience in building scalable and responsive web applications using:<br><br>    JavaScript, TypeScript, and React<br><br>    MERN Stack (MongoDB, Express.js, React, Node.js)<br><br>    Firebase for authentication and real-time databases<br><br>I focus on writing clean, efficient code and creating fast, user-friendly web experiences. I love building productivity tools, automating workflows, and working entirely from the terminal using tools like Neovim, Zsh, and Tmux.<br><br>I’m currently looking for frontend or full-stack developer roles where I can contribute, learn, and grow in real-world development teams.
+## 👋 Assalamu Alaikum, I'm **Md. Shahjalal**!
+
+I’m a passionate and self-driven **Full-Stack Web Developer** with hands-on experience in building scalable and responsive web applications using:
+
+- ✅ **JavaScript**, **TypeScript**, and **React**
+- ✅ **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- ✅ **Firebase** for authentication and real-time databases
+
+I focus on writing clean, efficient code and creating fast, user-friendly web experiences.  
+I enjoy building productivity tools, automating workflows, and working entirely from the terminal with tools like:
+
+- ⚡ **Neovim**
+- ⚡ **Zsh**
+- ⚡ **Tmux**
+
+I’m currently looking for **Frontend** or **Full-Stack Developer** roles where I can contribute, learn, and grow in real-world development teams.
+
+---
+
+📫 **Let's Connect:**  
+Feel free to reach out or explore my work through the repositories below.
+
 
 
 # 💻 Tech Stack:
